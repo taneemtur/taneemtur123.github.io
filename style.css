@@ -1,3 +1,5 @@
+
+
 .jumbotron
 {
     margin-top: 5%;
@@ -11,3 +13,26 @@
     
 } */
 
+.breadcrumb
+{
+    margin-top: 5%;
+    background-color: #fff;
+}
+
+.navbar-nav
+{
+    margin-top: 2%;
+
+}
+
+.nav-item
+{
+    margin-top: 5%;
+    margin-left: 3%;
+}
+
+.form-inline
+{
+    margin-left: 50%;
+    margin-top: -7%;
+}
